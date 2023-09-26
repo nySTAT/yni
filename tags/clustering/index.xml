@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/clustering/</link>
+    <description>Recent content in Clustering on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_pxg/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_pxg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Dirichlet Process</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gdp/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Way Overlapping Clustering by Bayesian Tensor Decomposition</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_baymc/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_baymc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Bayesian Framework for Bi-Overlapping-Clustering Multi-Omics Data via Sparse Matrix Factorization</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_imf/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_imf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BAGEL: A Bayesian Graphical Model for Inferring Drug Effect on Depression Longitudinally in People with HIV</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Nonparametric Approach for Inferring Drug Combination Effects on Mental Health in People with HIV</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Biclustering for Microbial Metagenomic Sequencing Data via Multinomial Matrix Factorization</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mmf/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_cvi/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_cvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Monte Carlo for Random Subsets using Shared Anchors</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_anchor/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_anchor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Double Feature Allocation for Phenotyping with Electronic Health Records</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_dfa/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_dfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Bayesian Nonparametric Clustering and Classification</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_sign/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Reciprocal Graphical Models</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

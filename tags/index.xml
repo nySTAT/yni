@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/</link>
+    <description>Recent content in Tags on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Network</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/bayesian-network/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/bayesian-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/covid/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causality</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/causality/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/causality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAG</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/dag/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/dag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/eeg/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EHR</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/ehr/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/functional-data/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Model</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/graphical-model/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/graphical-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/longitudinal-data/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/longitudinal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonparametrics</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/bayesian-nonparametrics/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/bayesian-nonparametrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/cancer/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/clustering/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Integration</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/data-integration/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/data-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirichlet Process</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/dirichlet-process/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/dirichlet-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/heterogeneity/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Random Field</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/markov-random-field/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/markov-random-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/multi-omics/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/multi-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive Network</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/predictive-network/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/predictive-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subject-Specific Graph</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/subject-specific-graph/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/subject-specific-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undirected Graph</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/undirected-graph/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/undirected-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Cell RNA-Seq</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/single-cell-rna-seq/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/single-cell-rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/gaussian-process/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/gaussian-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIV</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/hiv/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/precision-medicine/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Regulatory Network</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/gene-regulatory-network/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/gene-regulatory-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Count Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/count-data/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/count-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/discrete-data/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/discrete-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Inflated Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/zero-inflated-data/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/zero-inflated-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/big-data/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/covid-19/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directed Cyclic Graph</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/directed-cyclic-graph/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/directed-cyclic-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/federated-learning/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/parallel-computing/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/privacy/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Selection</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/variable-selection/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/variable-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/bi-clustering/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/bi-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Allocation</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/feature-allocation/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/feature-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/image-data/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/image-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian Buffet Process</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/indian-buffet-process/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/indian-buffet-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splines</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/splines/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/splines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Learning</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/supervised-learning/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/tensor/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/tensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thresholding Prior</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/thresholding-prior/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/thresholding-prior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/unsupervised-learning/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile Regression</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/quantile-regression/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/quantile-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrinkage Prior</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/shrinkage-prior/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/shrinkage-prior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorical Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/categorical-data/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/categorical-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/classification/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-local Prior</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/non-local-prior/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/non-local-prior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomarkers</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/biomarkers/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/biomarkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copula</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/copula/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/copula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiome Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/microbiome-data/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/microbiome-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Cell ATAC</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/single-cell-atac/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/single-cell-atac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic Tree</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/phylogenetic-tree/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/phylogenetic-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain Graph</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/chain-graph/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/chain-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/neuroimaging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/convolutional-neural-network/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/deep-learning/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese Restaurant Process</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/chinese-restaurant-process/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/chinese-restaurant-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Monte Carlo</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/consensus-monte-carlo/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/consensus-monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitman-Yor Process</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/pitman-yor-process/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/pitman-yor-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Inference</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/variational-inference/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/variational-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tumor Heterogeneity</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/tumor-heterogeneity/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/tumor-heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Detection</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/community-detection/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/community-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Factorization</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/matrix-factorization/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Network</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/random-network/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/random-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaption</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/domain-adaption/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/domain-adaption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adversarial Neural Network (DANN)</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/domain-adversarial-neural-network-dann/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/domain-adversarial-neural-network-dann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/gan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWAS</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/gwas/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRS</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/prs/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/prs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Tempering</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/parallel-tempering/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/parallel-tempering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirichlet-Multinomial Allocation</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/dirichlet-multinomial-allocation/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/dirichlet-multinomial-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback Loop</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/feedback-loop/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/feedback-loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Equivalence</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/markov-equivalence/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/markov-equivalence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEM</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/sem/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/sem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDL Decomposition</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/ldl-decomposition/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/ldl-decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partially Collapsed Gibbs Sampler</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/partially-collapsed-gibbs-sampler/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/partially-collapsed-gibbs-sampler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Data</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/spatial-data/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/spatial-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/genetics/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linkage Disequilibrium</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/linkage-disequilibrium/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/linkage-disequilibrium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dose Insertion</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/dose-insertion/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/dose-insertion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase I/II Clinical Trial</title>
+      <link>https://web.stat.tamu.edu/~yni/tags/phase-i/ii-clinical-trial/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/tags/phase-i/ii-clinical-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

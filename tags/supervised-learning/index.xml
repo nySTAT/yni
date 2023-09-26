@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervised Learning on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/supervised-learning/</link>
+    <description>Recent content in Supervised Learning on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Nonlinear Tensor Regression with Functional Fused Elastic Net Prior</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bfen/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bfen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Semiparametric Discriminant Analysis for High-Dimensional Zero-Inflated Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_clda/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_clda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

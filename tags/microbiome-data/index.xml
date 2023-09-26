@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbiome Data on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/microbiome-data/</link>
+    <description>Recent content in Microbiome Data on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/microbiome-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sparse Semiparametric Discriminant Analysis for High-Dimensional Zero-Inflated Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_clda/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_clda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetically Informed Bayesian Truncated Copula Graphical Models for Microbial Association Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Biclustering for Microbial Metagenomic Sequencing Data via Multinomial Matrix Factorization</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mmf/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensor on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/tensor/</link>
+    <description>Recent content in Tensor on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/tensor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Nonlinear Tensor Regression with Functional Fused Elastic Net Prior</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bfen/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bfen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Way Overlapping Clustering by Bayesian Tensor Decomposition</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_baymc/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_baymc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

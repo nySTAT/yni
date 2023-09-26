@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Count Data on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/count-data/</link>
+    <description>Recent content in Count Data on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/count-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Model-Based Causal Discovery for Zero-Inflated Count Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Semiparametric Discriminant Analysis for High-Dimensional Zero-Inflated Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_clda/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_clda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetically Informed Bayesian Truncated Copula Graphical Models for Microbial Association Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

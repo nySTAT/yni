@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/big-data/</link>
+    <description>Recent content in Big Data on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_fl/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_fl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_cvi/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_cvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Monte Carlo for Random Subsets using Shared Anchors</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_anchor/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_anchor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Bayesian Nonparametric Clustering and Classification</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_sign/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel-Tempered Feature Allocation for Large-Scale Tumor Heterogeneity with Deep Sequencing Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_book2020/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_book2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

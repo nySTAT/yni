@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Network on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/predictive-network/</link>
+    <description>Recent content in Predictive Network on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/predictive-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_pxg/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_pxg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Regression</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gr/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

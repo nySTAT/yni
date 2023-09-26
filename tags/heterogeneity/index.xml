@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heterogeneity on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/heterogeneity/</link>
+    <description>Recent content in Heterogeneity on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/heterogeneity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_pxg/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_pxg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Dirichlet Process</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gdp/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Causal Discovery with Latent Trajectory Embedded Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_fl/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_fl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Inference in Bayesian Quantile Directed Acyclic Graphical Models</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Quantile Regression with Application to Characterizing the Immune Architecture of Lung Cancer</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_quantico/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_quantico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Discovery with Heterogeneous Observational Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_chod/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_chod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Varying-sparsity Model with Application to Cancer Proteogenomics</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_behavior/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Regression</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gr/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

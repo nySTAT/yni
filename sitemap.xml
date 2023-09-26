@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication_types/2/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/bayesian-network/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/covid/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/causality/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/dag/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/eeg/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/ehr/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_fbn/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/functional-data/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/graphical-model/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/longitudinal-data/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication_types/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/bayesian-nonparametrics/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/cancer/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/clustering/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_pxg/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/data-integration/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/dirichlet-process/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/heterogeneity/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/markov-random-field/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/multi-omics/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/predictive-network/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/subject-specific-graph/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/undirected-graph/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_gdp/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/single-cell-rna-seq/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_hiv_rl/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/gaussian-process/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/hiv/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/precision-medicine/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/reinforcement-learning/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/gene-regulatory-network/</loc>
+    <lastmod>2023-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</loc>
+    <lastmod>2023-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/count-data/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/discrete-data/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/zero-inflated-data/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication_types/1/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/big-data/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/covid-19/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/directed-cyclic-graph/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/federated-learning/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_fl/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/parallel-computing/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/privacy/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/variable-selection/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_bfen/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/bi-clustering/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/feature-allocation/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/image-data/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/indian-buffet-process/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_baymc/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/splines/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/supervised-learning/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/tensor/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/thresholding-prior/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/unsupervised-learning/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_bookreview_bayesianvariableselection/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/quantile-regression/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/shrinkage-prior/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_colp/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/categorical-data/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/classification/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/non-local-prior/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_quantico/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/biomarkers/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/copula/</loc>
+    <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/microbiome-data/</loc>
+    <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_clda/</loc>
+    <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_imf/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/single-cell-atac/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_chod/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_ocd/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/phylogenetic-tree/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</loc>
+    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_bookreview_bayesthink/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/chain-graph/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_bookreview_eda/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/neuroimaging/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_graphreview_rejoinder/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/convolutional-neural-network/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_dnb/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/deep-learning/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/chinese-restaurant-process/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_mmf/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</loc>
+    <lastmod>2020-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/consensus-monte-carlo/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_cvi/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/pitman-yor-process/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/variational-inference/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_anchor/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/tumor-heterogeneity/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_dfa/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/community-detection/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/matrix-factorization/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/random-network/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/c_ecai/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/domain-adaption/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/domain-adversarial-neural-network-dann/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/gan/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_prostate/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_sign/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_behavior/</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/gwas/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/prs/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_gwas/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_gr/</loc>
+    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/parallel-tempering/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_book2020/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/dirichlet-multinomial-allocation/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/feedback-loop/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/markov-equivalence/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_rgm/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/sem/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_bmc2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/ldl-decomposition/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/partially-collapsed-gibbs-sampler/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_mdag/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/spatial-data/</loc>
+    <lastmod>2017-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/genetics/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/linkage-disequilibrium/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_tpb2017/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_disc2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/dose-insertion/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/tags/phase-i/ii-clinical-trial/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_teams/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_book2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/behavior/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/cbms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/postdoc_ad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.stat.tamu.edu/~yni/teaching/</loc>
+  </url>
+  
+</urlset>

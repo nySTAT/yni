@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on nySTAT</title>
+    <link>https://www.stat.tamu.edu/~yni/publication_types/3/</link>
+    <description>Recent content in 3 on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.stat.tamu.edu/~yni/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Double Feature Allocation for Phenotyping with Electronic Health Records</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/p_dfa/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/p_dfa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

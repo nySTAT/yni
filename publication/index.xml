@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/publication/</link>
+    <description>Recent content in Publications on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Functional Bayesian Networks for Discovering Causality from Multivariate Functional Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_fbn/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_fbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_pxg/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_pxg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Dirichlet Process</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gdp/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_rl/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Causal Discovery with Latent Trajectory Embedded Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Causal Discovery for Zero-Inflated Count Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_fl/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_fl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonlinear Tensor Regression with Functional Fused Elastic Net Prior</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bfen/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bfen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Way Overlapping Clustering by Bayesian Tensor Decomposition</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_baymc/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_baymc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handbook of Bayesian Variable Selection by Mahlet G. Tadesse and Marina Vannucci</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bookreview_bayesianvariableselection/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bookreview_bayesianvariableselection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Inference in Bayesian Quantile Directed Acyclic Graphical Models</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bivariate Causal Discovery for Categorical Data via Classification with Optimal Label Permutation</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_colp/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_colp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Quantile Regression with Application to Characterizing the Immune Architecture of Lung Cancer</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_quantico/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_quantico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Semiparametric Discriminant Analysis for High-Dimensional Zero-Inflated Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_clda/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_clda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Bayesian Framework for Bi-Overlapping-Clustering Multi-Omics Data via Sparse Matrix Factorization</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_imf/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_imf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Discovery with Heterogeneous Observational Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_chod/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_chod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal Causal Discovery</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_ocd/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetically Informed Bayesian Truncated Copula Graphical Models for Microbial Association Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_phylobcg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Thinking in Biostatistics by Gary L. Rosner, Purushottam W. Laud, and Wesley O. Johnson</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bookreview_bayesthink/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bookreview_bayesthink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis with MATLAB (Third Edition) by Wendy L. Martinez, Angel R. Martinez, and Jeffrey L. Solka</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bookreview_eda/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bookreview_eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rejoinder to the Discussion of &#34;Bayesian Graphical Models for Modern Biological Applications.&#34;</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_graphreview_rejoinder/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_graphreview_rejoinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BAGEL: A Bayesian Graphical Model for Inferring Drug Effect on Depression Longitudinally in People with HIV</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNB: A Joint Learning Framework for Deep Bayesian Nonparametric Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_dnb/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_dnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Models for Modern Biological Applications</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Nonparametric Approach for Inferring Drug Combination Effects on Mental Health in People with HIV</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Biclustering for Microbial Metagenomic Sequencing Data via Multinomial Matrix Factorization</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mmf/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_cvi/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_cvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Monte Carlo for Random Subsets using Shared Anchors</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_anchor/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_anchor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Double Feature Allocation for Phenotyping with Electronic Health Records</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_dfa/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_dfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Domain Adaptation Being Aware of Class Relationships</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_ecai/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_ecai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of Human Prostate Carcinoma-Associated Fibroblasts Implicates a Role for Subpopulations in Myeloid Cell Recruitment</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_prostate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_prostate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Bayesian Nonparametric Clustering and Classification</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_sign/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_sign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Varying-sparsity Model with Application to Cancer Proteogenomics</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_behavior/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polygenic Prediction via Bayesian Regression and Continuous Shrinkage Priors</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gwas/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Regression</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gr/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel-Tempered Feature Allocation for Large-Scale Tumor Heterogeneity with Deep Sequencing Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_book2020/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_book2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Reciprocal Graphical Models</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reciprocal Graphical Models for Integrative Gene Regulatory Network Analysis</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_rgm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_rgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Models for Computational Network Biology</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bmc2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bmc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance in Estimated Pairwise Genetic Distance Under High versus Low Coverage Sequencing: the Contribution of Linkage Disequilibrium</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_tpb2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_tpb2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion of &#34;Sparse Graphs Using Exchangeable Random Measures.&#34; by Caron, F., and Fox, E.</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_disc2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_disc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TEAMS: Toxicity- and Efficacy-based Dose Insertion Design with Adaptive Model Selection for Phase I/II Dose-Escalation Trials in Oncology</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_teams/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_teams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Approaches for Large Biological Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_book2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_book2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonlinear Model Selection for Gene Regulatory Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian Network Analysis of Genomic Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

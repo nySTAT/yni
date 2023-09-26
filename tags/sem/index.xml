@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEM on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/sem/</link>
+    <description>Recent content in SEM on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/sem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reciprocal Graphical Models for Integrative Gene Regulatory Network Analysis</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_rgm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_rgm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

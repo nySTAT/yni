@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genomics on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/genomics/</link>
+    <description>Recent content in Genomics on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Graphical Models for Modern Biological Applications</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Reciprocal Graphical Models</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reciprocal Graphical Models for Integrative Gene Regulatory Network Analysis</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_rgm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_rgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance in Estimated Pairwise Genetic Distance Under High versus Low Coverage Sequencing: the Contribution of Linkage Disequilibrium</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_tpb2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_tpb2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonlinear Model Selection for Gene Regulatory Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian Network Analysis of Genomic Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

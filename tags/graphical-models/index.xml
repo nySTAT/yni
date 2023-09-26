@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphical Models on nySTAT</title>
+    <link>https://www.stat.tamu.edu/~yni/tags/graphical-models/</link>
+    <description>Recent content in Graphical Models on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.stat.tamu.edu/~yni/tags/graphical-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heterogeneity of Human Prostate Carcinoma-Associated Fibroblasts Implicates a Role for Subpopulations in Myeloid Cell Recruitment</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_prostate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_prostate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Reciprocal Graphical Models</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_hrgm/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_hrgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reciprocal Graphical Models for Integrative Gene Regulatory Network Analysis</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_rgm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_rgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Models for Computational Network Biology</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_bmc2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_bmc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion of &#34;Sparse Graphs Using Exchangeable Random Measures.&#34; by Caron, F., and Fox, E.</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_disc2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_disc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Approaches for Large Biological Networks</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_book2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_book2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonlinear Model Selection for Gene Regulatory Networks</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_nmixdag/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_nmixdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian Network Analysis of Genomic Data</title>
+      <link>https://www.stat.tamu.edu/~yni/publication/j_ci2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.stat.tamu.edu/~yni/publication/j_ci2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

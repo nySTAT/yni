@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/publication_types/1/</link>
+    <description>Recent content in 1 on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_fl/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_fl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bivariate Causal Discovery for Categorical Data via Classification with Optimal Label Permutation</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_colp/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_colp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Discovery with Heterogeneous Observational Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_chod/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_chod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal Causal Discovery</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_ocd/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_cvi/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_cvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Domain Adaptation Being Aware of Class Relationships</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_ecai/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_ecai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

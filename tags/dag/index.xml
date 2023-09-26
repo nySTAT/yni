@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAG on nySTAT</title>
+    <link>https://web.stat.tamu.edu/~yni/tags/dag/</link>
+    <description>Recent content in DAG on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/dag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Functional Bayesian Networks for Discovering Causality from Multivariate Functional Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_fbn/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_fbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Dirichlet Process</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gdp/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Causal Discovery with Latent Trajectory Embedded Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_bn-lte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Causal Discovery for Zero-Inflated Count Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_zig-dag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized Inference in Bayesian Quantile Directed Acyclic Graphical Models</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bivariate Causal Discovery for Categorical Data via Classification with Optimal Label Permutation</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_colp/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_colp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordinal Causal Discovery</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_ocd/</link>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_ocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rejoinder to the Discussion of &#34;Bayesian Graphical Models for Modern Biological Applications.&#34;</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_graphreview_rejoinder/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_graphreview_rejoinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Models for Modern Biological Applications</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_graphreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Causal Structural Learning with Zero-Inflated Poisson Bayesian Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/c_zipbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Regression</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_gr/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonlinear Model Selection for Gene Regulatory Networks</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_nmixdag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian Network Analysis of Genomic Data</title>
+      <link>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
