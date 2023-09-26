@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Integration on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/tags/data-integration/</link>
+    <link>https://nystat.github.io/yni/tags/data-integration/</link>
     <description>Recent content in Data Integration on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/data-integration/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/tags/data-integration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_pxg/</link>
+      <link>https://nystat.github.io/yni/publication/j_pxg/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_pxg/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_pxg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/c_fl/</link>
+      <link>https://nystat.github.io/yni/publication/c_fl/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/c_fl/</guid>
+      <guid>https://nystat.github.io/yni/publication/c_fl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individualized Inference in Bayesian Quantile Directed Acyclic Graphical Models</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</link>
+      <link>https://nystat.github.io/yni/publication/j_qdagx/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_qdagx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</link>
+      <link>https://nystat.github.io/yni/publication/j_ggmx/</link>
       <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_ggmx/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_ggmx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Hierarchical Quantile Regression with Application to Characterizing the Immune Architecture of Lung Cancer</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_quantico/</link>
+      <link>https://nystat.github.io/yni/publication/j_quantico/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_quantico/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_quantico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Bayesian Framework for Bi-Overlapping-Clustering Multi-Omics Data via Sparse Matrix Factorization</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_imf/</link>
+      <link>https://nystat.github.io/yni/publication/j_imf/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_imf/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_imf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Hierarchical Varying-sparsity Model with Application to Cancer Proteogenomics</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_behavior/</link>
+      <link>https://nystat.github.io/yni/publication/j_behavior/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_behavior/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_behavior/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Graphical Regression</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_gr/</link>
+      <link>https://nystat.github.io/yni/publication/j_gr/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_gr/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_gr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous Reciprocal Graphical Models</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</link>
+      <link>https://nystat.github.io/yni/publication/j_hrgm/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_hrgm/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_hrgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reciprocal Graphical Models for Integrative Gene Regulatory Network Analysis</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_rgm/</link>
+      <link>https://nystat.github.io/yni/publication/j_rgm/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_rgm/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_rgm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <link>https://nystat.github.io/yni/publication/j_mdag/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_mdag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrative Bayesian Network Analysis of Genomic Data</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</link>
+      <link>https://nystat.github.io/yni/publication/j_ci2014/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_ci2014/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_ci2014/</guid>
       <description></description>
     </item>
     

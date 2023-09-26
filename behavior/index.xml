@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BEHAVIOR - Web Application for Kidney Renal Clear Cell Carcinoma on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/behavior/</link>
+    <link>https://nystat.github.io/yni/behavior/</link>
     <description>Recent content in BEHAVIOR - Web Application for Kidney Renal Clear Cell Carcinoma on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/behavior/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/behavior/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

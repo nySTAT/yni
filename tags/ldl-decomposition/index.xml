@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LDL Decomposition on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/tags/ldl-decomposition/</link>
+    <link>https://nystat.github.io/yni/tags/ldl-decomposition/</link>
     <description>Recent content in LDL Decomposition on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/ldl-decomposition/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/tags/ldl-decomposition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_mdag/</link>
+      <link>https://nystat.github.io/yni/publication/j_mdag/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_mdag/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_mdag/</guid>
       <description></description>
     </item>
     

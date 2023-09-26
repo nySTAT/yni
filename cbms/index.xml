@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBMS Conference -- Foundations of Causal Graphical Models and Structure Discovery on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/cbms/</link>
+    <link>https://nystat.github.io/yni/cbms/</link>
     <description>Recent content in CBMS Conference -- Foundations of Causal Graphical Models and Structure Discovery on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/cbms/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/cbms/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

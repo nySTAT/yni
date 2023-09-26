@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feature Allocation on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/tags/feature-allocation/</link>
+    <link>https://nystat.github.io/yni/tags/feature-allocation/</link>
     <description>Recent content in Feature Allocation on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/feature-allocation/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/tags/feature-allocation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multi-Way Overlapping Clustering by Bayesian Tensor Decomposition</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_baymc/</link>
+      <link>https://nystat.github.io/yni/publication/j_baymc/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_baymc/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_baymc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Bayesian Framework for Bi-Overlapping-Clustering Multi-Omics Data via Sparse Matrix Factorization</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_imf/</link>
+      <link>https://nystat.github.io/yni/publication/j_imf/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_imf/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_imf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Biclustering for Microbial Metagenomic Sequencing Data via Multinomial Matrix Factorization</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_mmf/</link>
+      <link>https://nystat.github.io/yni/publication/j_mmf/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_mmf/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_mmf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consensus Monte Carlo for Random Subsets using Shared Anchors</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_anchor/</link>
+      <link>https://nystat.github.io/yni/publication/j_anchor/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_anchor/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_anchor/</guid>
       <description></description>
     </item>
     

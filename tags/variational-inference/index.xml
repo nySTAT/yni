@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Variational Inference on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/tags/variational-inference/</link>
+    <link>https://nystat.github.io/yni/tags/variational-inference/</link>
     <description>Recent content in Variational Inference on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/c_cvi/</link>
+      <link>https://nystat.github.io/yni/publication/c_cvi/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/c_cvi/</guid>
+      <guid>https://nystat.github.io/yni/publication/c_cvi/</guid>
       <description></description>
     </item>
     

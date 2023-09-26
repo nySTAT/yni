@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Precision Medicine on nySTAT</title>
-    <link>https://web.stat.tamu.edu/~yni/tags/precision-medicine/</link>
+    <link>https://nystat.github.io/yni/tags/precision-medicine/</link>
     <description>Recent content in Precision Medicine on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://web.stat.tamu.edu/~yni/tags/precision-medicine/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nystat.github.io/yni/tags/precision-medicine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_rl/</link>
+      <link>https://nystat.github.io/yni/publication/j_hiv_rl/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_rl/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_hiv_rl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individualized Inference in Bayesian Quantile Directed Acyclic Graphical Models</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</link>
+      <link>https://nystat.github.io/yni/publication/j_qdagx/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_qdagx/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_qdagx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Hierarchical Quantile Regression with Application to Characterizing the Immune Architecture of Lung Cancer</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_quantico/</link>
+      <link>https://nystat.github.io/yni/publication/j_quantico/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_quantico/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_quantico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BAGEL: A Bayesian Graphical Model for Inferring Drug Effect on Depression Longitudinally in People with HIV</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</link>
+      <link>https://nystat.github.io/yni/publication/j_hiv_bagel/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_bagel/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_hiv_bagel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian Nonparametric Approach for Inferring Drug Combination Effects on Mental Health in People with HIV</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</link>
+      <link>https://nystat.github.io/yni/publication/j_hiv_st/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_hiv_st/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_hiv_st/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Hierarchical Varying-sparsity Model with Application to Cancer Proteogenomics</title>
-      <link>https://web.stat.tamu.edu/~yni/publication/j_behavior/</link>
+      <link>https://nystat.github.io/yni/publication/j_behavior/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://web.stat.tamu.edu/~yni/publication/j_behavior/</guid>
+      <guid>https://nystat.github.io/yni/publication/j_behavior/</guid>
       <description></description>
     </item>
     
