@@ -6,10 +6,28 @@
     <description>Recent content in Gaussian Process on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/gaussian-process/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joint Bayesian Estimation of Cell Dependence and Gene Associations in Spatially Resolved Transcriptomic Data</title>
+      <link>https://nystat.github.io/yni/publication/j_jobs/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Investigating the Pharmacogenetics of Combination Antiretroviral Therapy in People with HIV</title>
+      <link>https://nystat.github.io/yni/publication/j_hiv_pharmacogenetics/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_hiv_pharmacogenetics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV</title>

@@ -6,10 +6,64 @@
     <description>Recent content in 2 on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blocked Gibbs Sampler for Hierarchical Dirichlet Processes</title>
+      <link>https://nystat.github.io/yni/publication/j_hdp/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_hdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Bayesian Estimation of Cell Dependence and Gene Associations in Spatially Resolved Transcriptomic Data</title>
+      <link>https://nystat.github.io/yni/publication/j_jobs/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Analysis of Gut Metabolome, Microbiome, and Exfoliome Data in an Equine Model of Intestinal Injury</title>
+      <link>https://nystat.github.io/yni/publication/j_microbiome/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Approach for Investigating the Pharmacogenetics of Combination Antiretroviral Therapy in People with HIV</title>
+      <link>https://nystat.github.io/yni/publication/j_hiv_pharmacogenetics/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_hiv_pharmacogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Way Overlapping Clustering by Bayesian Tensor Decomposition</title>
+      <link>https://nystat.github.io/yni/publication/j_baymc/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_baymc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Scientific Computing with R torch by Sigrid Keydana</title>
+      <link>https://nystat.github.io/yni/publication/j_bookreview_dl/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_bookreview_dl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional Bayesian Networks for Discovering Causality from Multivariate Functional Data</title>
@@ -30,7 +84,7 @@
     </item>
     
     <item>
-      <title>Graphical Dirichlet Process</title>
+      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
       <link>https://nystat.github.io/yni/publication/j_gdp/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
       
@@ -71,15 +125,6 @@
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_bfen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Way Overlapping Clustering by Bayesian Tensor Decomposition</title>
-      <link>https://nystat.github.io/yni/publication/j_baymc/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_baymc/</guid>
       <description></description>
     </item>
     

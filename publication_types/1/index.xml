@@ -6,10 +6,28 @@
     <description>Recent content in 1 on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scalar-Function Causal Discovery for Generating Causal Hypotheses with Observational Wearable Device Data</title>
+      <link>https://nystat.github.io/yni/publication/c_psb2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/c_psb2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data</title>
+      <link>https://nystat.github.io/yni/publication/c_fence/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/c_fence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>

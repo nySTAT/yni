@@ -6,10 +6,289 @@
     <description>Recent content in Tags on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian Nonparametrics</title>
+      <link>https://nystat.github.io/yni/tags/bayesian-nonparametrics/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/bayesian-nonparametrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://nystat.github.io/yni/tags/clustering/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirichlet Process</title>
+      <link>https://nystat.github.io/yni/tags/dirichlet-process/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/dirichlet-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Integration</title>
+      <link>https://nystat.github.io/yni/tags/data-integration/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/data-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process</title>
+      <link>https://nystat.github.io/yni/tags/gaussian-process/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/gaussian-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Regulatory Network</title>
+      <link>https://nystat.github.io/yni/tags/gene-regulatory-network/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/gene-regulatory-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity</title>
+      <link>https://nystat.github.io/yni/tags/heterogeneity/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics</title>
+      <link>https://nystat.github.io/yni/tags/multi-omics/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/multi-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Cell RNA-Seq</title>
+      <link>https://nystat.github.io/yni/tags/single-cell-rna-seq/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/single-cell-rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Transcriptomics</title>
+      <link>https://nystat.github.io/yni/tags/spatial-transcriptomics/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/spatial-transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classificiation</title>
+      <link>https://nystat.github.io/yni/tags/classificiation/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/classificiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exfoliome</title>
+      <link>https://nystat.github.io/yni/tags/exfoliome/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/exfoliome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolome</title>
+      <link>https://nystat.github.io/yni/tags/metabolome/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/metabolome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiome</title>
+      <link>https://nystat.github.io/yni/tags/microbiome/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EHR</title>
+      <link>https://nystat.github.io/yni/tags/ehr/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIV</title>
+      <link>https://nystat.github.io/yni/tags/hiv/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Data</title>
+      <link>https://nystat.github.io/yni/tags/longitudinal-data/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/longitudinal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine</title>
+      <link>https://nystat.github.io/yni/tags/precision-medicine/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/precision-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree</title>
+      <link>https://nystat.github.io/yni/tags/tree/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-Clustering</title>
+      <link>https://nystat.github.io/yni/tags/bi-clustering/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/bi-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Allocation</title>
+      <link>https://nystat.github.io/yni/tags/feature-allocation/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/feature-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian Buffet Process</title>
+      <link>https://nystat.github.io/yni/tags/indian-buffet-process/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/indian-buffet-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor</title>
+      <link>https://nystat.github.io/yni/tags/tensor/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/tensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>https://nystat.github.io/yni/tags/unsupervised-learning/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causality</title>
+      <link>https://nystat.github.io/yni/tags/causality/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/causality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAG</title>
+      <link>https://nystat.github.io/yni/tags/dag/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/dag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Data</title>
+      <link>https://nystat.github.io/yni/tags/functional-data/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Model</title>
+      <link>https://nystat.github.io/yni/tags/graphical-model/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/graphical-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NHANES</title>
+      <link>https://nystat.github.io/yni/tags/nhanes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/nhanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Device</title>
+      <link>https://nystat.github.io/yni/tags/wearable-device/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/wearable-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directed Cyclic Graph</title>
+      <link>https://nystat.github.io/yni/tags/directed-cyclic-graph/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/directed-cyclic-graph/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian Network</title>
@@ -30,74 +309,11 @@
     </item>
     
     <item>
-      <title>Causality</title>
-      <link>https://nystat.github.io/yni/tags/causality/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/causality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DAG</title>
-      <link>https://nystat.github.io/yni/tags/dag/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/dag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>EEG</title>
       <link>https://nystat.github.io/yni/tags/eeg/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/eeg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EHR</title>
-      <link>https://nystat.github.io/yni/tags/ehr/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional Data</title>
-      <link>https://nystat.github.io/yni/tags/functional-data/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/functional-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphical Model</title>
-      <link>https://nystat.github.io/yni/tags/graphical-model/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/graphical-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Data</title>
-      <link>https://nystat.github.io/yni/tags/longitudinal-data/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/longitudinal-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Nonparametrics</title>
-      <link>https://nystat.github.io/yni/tags/bayesian-nonparametrics/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/bayesian-nonparametrics/</guid>
       <description></description>
     </item>
     
@@ -111,56 +327,11 @@
     </item>
     
     <item>
-      <title>Clustering</title>
-      <link>https://nystat.github.io/yni/tags/clustering/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Integration</title>
-      <link>https://nystat.github.io/yni/tags/data-integration/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/data-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dirichlet Process</title>
-      <link>https://nystat.github.io/yni/tags/dirichlet-process/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/dirichlet-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneity</title>
-      <link>https://nystat.github.io/yni/tags/heterogeneity/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/heterogeneity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Markov Random Field</title>
       <link>https://nystat.github.io/yni/tags/markov-random-field/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/markov-random-field/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Omics</title>
-      <link>https://nystat.github.io/yni/tags/multi-omics/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/multi-omics/</guid>
       <description></description>
     </item>
     
@@ -192,56 +363,11 @@
     </item>
     
     <item>
-      <title>Single-Cell RNA-Seq</title>
-      <link>https://nystat.github.io/yni/tags/single-cell-rna-seq/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/single-cell-rna-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaussian Process</title>
-      <link>https://nystat.github.io/yni/tags/gaussian-process/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/gaussian-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HIV</title>
-      <link>https://nystat.github.io/yni/tags/hiv/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/hiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Precision Medicine</title>
-      <link>https://nystat.github.io/yni/tags/precision-medicine/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/precision-medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reinforcement Learning</title>
       <link>https://nystat.github.io/yni/tags/reinforcement-learning/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gene Regulatory Network</title>
-      <link>https://nystat.github.io/yni/tags/gene-regulatory-network/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/gene-regulatory-network/</guid>
       <description></description>
     </item>
     
@@ -291,15 +417,6 @@
     </item>
     
     <item>
-      <title>Directed Cyclic Graph</title>
-      <link>https://nystat.github.io/yni/tags/directed-cyclic-graph/</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/directed-cyclic-graph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Federated Learning</title>
       <link>https://nystat.github.io/yni/tags/federated-learning/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
@@ -336,38 +453,11 @@
     </item>
     
     <item>
-      <title>Bi-Clustering</title>
-      <link>https://nystat.github.io/yni/tags/bi-clustering/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/bi-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feature Allocation</title>
-      <link>https://nystat.github.io/yni/tags/feature-allocation/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/feature-allocation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Image Data</title>
       <link>https://nystat.github.io/yni/tags/image-data/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/image-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Indian Buffet Process</title>
-      <link>https://nystat.github.io/yni/tags/indian-buffet-process/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/indian-buffet-process/</guid>
       <description></description>
     </item>
     
@@ -390,29 +480,11 @@
     </item>
     
     <item>
-      <title>Tensor</title>
-      <link>https://nystat.github.io/yni/tags/tensor/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/tensor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thresholding Prior</title>
       <link>https://nystat.github.io/yni/tags/thresholding-prior/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/thresholding-prior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Learning</title>
-      <link>https://nystat.github.io/yni/tags/unsupervised-learning/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     

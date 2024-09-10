@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Transcriptomics on nySTAT</title>
+    <link>https://nystat.github.io/yni/tags/spatial-transcriptomics/</link>
+    <description>Recent content in Spatial Transcriptomics on nySTAT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://nystat.github.io/yni/tags/spatial-transcriptomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joint Bayesian Estimation of Cell Dependence and Gene Associations in Spatially Resolved Transcriptomic Data</title>
+      <link>https://nystat.github.io/yni/publication/j_jobs/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_jobs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

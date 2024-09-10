@@ -6,10 +6,28 @@
     <description>Recent content in Graphical Model on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/graphical-model/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scalar-Function Causal Discovery for Generating Causal Hypotheses with Observational Wearable Device Data</title>
+      <link>https://nystat.github.io/yni/publication/c_psb2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/c_psb2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data</title>
+      <link>https://nystat.github.io/yni/publication/c_fence/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/c_fence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional Bayesian Networks for Discovering Causality from Multivariate Functional Data</title>
@@ -30,7 +48,7 @@
     </item>
     
     <item>
-      <title>Graphical Dirichlet Process</title>
+      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
       <link>https://nystat.github.io/yni/publication/j_gdp/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
       

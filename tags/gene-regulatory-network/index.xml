@@ -6,10 +6,19 @@
     <description>Recent content in Gene Regulatory Network on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/gene-regulatory-network/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joint Bayesian Estimation of Cell Dependence and Gene Associations in Spatially Resolved Transcriptomic Data</title>
+      <link>https://nystat.github.io/yni/publication/j_jobs/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_jobs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Individualized Causal Discovery with Latent Trajectory Embedded Bayesian Networks</title>
