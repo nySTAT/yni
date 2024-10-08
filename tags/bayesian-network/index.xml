@@ -6,10 +6,19 @@
     <description>Recent content in Bayesian Network on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/bayesian-network/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
+      <link>https://nystat.github.io/yni/publication/j_gdp/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional Bayesian Networks for Discovering Causality from Multivariate Functional Data</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_fbn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
-      <link>https://nystat.github.io/yni/publication/j_gdp/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_gdp/</guid>
       <description></description>
     </item>
     

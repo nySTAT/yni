@@ -4,54 +4,130 @@
   
   <url>
     <loc>https://nystat.github.io/yni/publication_types/2/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/bayesian-network/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nystat.github.io/yni/tags/bayesian-nonparametrics/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/cancer/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/causality/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/clustering/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/dag/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/directed-cyclic-graph/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/publication/j_dcg_timeseries/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/dirichlet-process/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/publication/j_gdp/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/graphical-model/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/heterogeneity/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/longitudinal-data/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/panel-data/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/publication_types/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/publication/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/single-cell-rna-seq/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/time-series/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nystat.github.io/yni/publication/j_hdp/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/clustering/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/dirichlet-process/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/publication_types/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/publication/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,24 +149,12 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/tags/heterogeneity/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nystat.github.io/yni/publication/j_jobs/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nystat.github.io/yni/tags/multi-omics/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/single-cell-rna-seq/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -148,12 +212,6 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/tags/longitudinal-data/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nystat.github.io/yni/tags/precision-medicine/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -201,59 +259,12 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/publication_types/1/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/causality/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/dag/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nystat.github.io/yni/publication/j_bookreview_dl/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/tags/functional-data/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/graphical-model/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/nhanes/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/publication/c_psb2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/wearable-device/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/directed-cyclic-graph/</loc>
+    <loc>https://nystat.github.io/yni/publication_types/1/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -264,8 +275,8 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/tags/bayesian-network/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <loc>https://nystat.github.io/yni/tags/functional-data/</loc>
+    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -284,12 +295,6 @@
   <url>
     <loc>https://nystat.github.io/yni/publication/j_fbn/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/cancer/</loc>
-    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -322,22 +327,6 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/publication/j_gdp/</loc>
-    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/publication/j_hiv_rl/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/reinforcement-learning/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nystat.github.io/yni/publication/j_bn-lte/</loc>
     <lastmod>2023-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -366,47 +355,6 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/tags/big-data/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/covid-19/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/federated-learning/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/publication/c_fl/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/parallel-computing/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/privacy/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/variable-selection/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nystat.github.io/yni/publication/j_bfen/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -431,6 +379,12 @@
   
   <url>
     <loc>https://nystat.github.io/yni/tags/thresholding-prior/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/variable-selection/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -621,6 +575,12 @@
   </url>
   
   <url>
+    <loc>https://nystat.github.io/yni/tags/big-data/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nystat.github.io/yni/tags/consensus-monte-carlo/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -629,6 +589,12 @@
   <url>
     <loc>https://nystat.github.io/yni/publication/c_cvi/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/parallel-computing/</loc>
+    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -833,23 +799,6 @@
   </url>
   
   <url>
-    <loc>https://nystat.github.io/yni/tags/dose-insertion/</loc>
-    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/phase-i/ii-clinical-trial/</loc>
-    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/publication/j_teams/</loc>
-    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nystat.github.io/yni/publication/j_book2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -896,10 +845,6 @@
   
   <url>
     <loc>https://nystat.github.io/yni/software/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/teaching/</loc>
   </url>
   
 </urlset>

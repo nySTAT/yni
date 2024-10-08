@@ -6,10 +6,28 @@
     <description>Recent content in 2 on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Time-Series Data</title>
+      <link>https://nystat.github.io/yni/publication/j_dcg_timeseries/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_dcg_timeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
+      <link>https://nystat.github.io/yni/publication/j_gdp/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blocked Gibbs Sampler for Hierarchical Dirichlet Processes</title>
@@ -80,24 +98,6 @@
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_pxg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
-      <link>https://nystat.github.io/yni/publication/j_gdp/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_gdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV</title>
-      <link>https://nystat.github.io/yni/publication/j_hiv_rl/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_hiv_rl/</guid>
       <description></description>
     </item>
     
@@ -386,15 +386,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_disc2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TEAMS: Toxicity- and Efficacy-based Dose Insertion Design with Adaptive Model Selection for Phase I/II Dose-Escalation Trials in Oncology</title>
-      <link>https://nystat.github.io/yni/publication/j_teams/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_teams/</guid>
       <description></description>
     </item>
     

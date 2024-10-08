@@ -6,10 +6,19 @@
     <description>Recent content in Longitudinal Data on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/longitudinal-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Time-Series Data</title>
+      <link>https://nystat.github.io/yni/publication/j_dcg_timeseries/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_dcg_timeseries/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Bayesian Approach for Investigating the Pharmacogenetics of Combination Antiretroviral Therapy in People with HIV</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_fbn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Bayesian Decision Framework for Optimizing Sequential Combination Antiretroviral Therapy in People with HIV</title>
-      <link>https://nystat.github.io/yni/publication/j_hiv_rl/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_hiv_rl/</guid>
       <description></description>
     </item>
     

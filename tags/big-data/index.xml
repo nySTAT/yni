@@ -6,19 +6,10 @@
     <description>Recent content in Big Data on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
-      <link>https://nystat.github.io/yni/publication/c_fl/</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/c_fl/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering</title>

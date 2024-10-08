@@ -6,10 +6,19 @@
     <description>Recent content in Directed Cyclic Graph on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/directed-cyclic-graph/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Directed Cyclic Graphs for Simultaneous Discovery of Time-Lagged and Instantaneous Causality from Time-Series Data</title>
+      <link>https://nystat.github.io/yni/publication/j_dcg_timeseries/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_dcg_timeseries/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data</title>
@@ -17,15 +26,6 @@
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/c_fence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
-      <link>https://nystat.github.io/yni/publication/c_fl/</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/c_fl/</guid>
       <description></description>
     </item>
     

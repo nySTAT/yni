@@ -6,10 +6,19 @@
     <description>Recent content in Cancer on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
+      <link>https://nystat.github.io/yni/publication/j_gdp/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/publication/j_gdp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Covariate-Assisted Bayesian Graph Learning for Heterogeneous Data</title>
@@ -21,29 +30,11 @@
     </item>
     
     <item>
-      <title>Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data</title>
-      <link>https://nystat.github.io/yni/publication/j_gdp/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_gdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Individualized Causal Discovery with Latent Trajectory Embedded Bayesian Networks</title>
       <link>https://nystat.github.io/yni/publication/j_bn-lte/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_bn-lte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Learning for Sparse Bayesian Models with Applications to Electronic Health Records and Genomics</title>
-      <link>https://nystat.github.io/yni/publication/c_fl/</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/c_fl/</guid>
       <description></description>
     </item>
     
@@ -170,15 +161,6 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/publication/j_tpb2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TEAMS: Toxicity- and Efficacy-based Dose Insertion Design with Adaptive Model Selection for Phase I/II Dose-Escalation Trials in Oncology</title>
-      <link>https://nystat.github.io/yni/publication/j_teams/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/publication/j_teams/</guid>
       <description></description>
     </item>
     
