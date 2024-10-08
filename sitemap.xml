@@ -62,12 +62,24 @@
   </url>
   
   <url>
+    <loc>https://nystat.github.io/yni/tags/ehr/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nystat.github.io/yni/publication/j_gdp/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nystat.github.io/yni/tags/graphical-model/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nystat.github.io/yni/tags/hiv/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -197,18 +209,6 @@
   <url>
     <loc>https://nystat.github.io/yni/publication/j_hiv_pharmacogenetics/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/ehr/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nystat.github.io/yni/tags/hiv/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

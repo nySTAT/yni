@@ -84,11 +84,29 @@
     </item>
     
     <item>
+      <title>EHR</title>
+      <link>https://nystat.github.io/yni/tags/ehr/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graphical Model</title>
       <link>https://nystat.github.io/yni/tags/graphical-model/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/graphical-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIV</title>
+      <link>https://nystat.github.io/yni/tags/hiv/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/hiv/</guid>
       <description></description>
     </item>
     
@@ -215,24 +233,6 @@
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EHR</title>
-      <link>https://nystat.github.io/yni/tags/ehr/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HIV</title>
-      <link>https://nystat.github.io/yni/tags/hiv/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/hiv/</guid>
       <description></description>
     </item>
     
