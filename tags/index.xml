@@ -6,7 +6,7 @@
     <description>Recent content in Tags on nySTAT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://nystat.github.io/yni/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,72 @@
     <item>
       <title>Bayesian Network</title>
       <link>https://nystat.github.io/yni/tags/bayesian-network/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/bayesian-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorical Data</title>
+      <link>https://nystat.github.io/yni/tags/categorical-data/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/categorical-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causality</title>
+      <link>https://nystat.github.io/yni/tags/causality/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/causality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAG</title>
+      <link>https://nystat.github.io/yni/tags/dag/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/dag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Data</title>
+      <link>https://nystat.github.io/yni/tags/discrete-data/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/discrete-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Model</title>
+      <link>https://nystat.github.io/yni/tags/graphical-model/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/graphical-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychometrics</title>
+      <link>https://nystat.github.io/yni/tags/psychometrics/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/psychometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey Data</title>
+      <link>https://nystat.github.io/yni/tags/survey-data/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nystat.github.io/yni/tags/survey-data/</guid>
       <description></description>
     </item>
     
@@ -39,29 +102,11 @@
     </item>
     
     <item>
-      <title>Causality</title>
-      <link>https://nystat.github.io/yni/tags/causality/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/causality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Clustering</title>
       <link>https://nystat.github.io/yni/tags/clustering/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DAG</title>
-      <link>https://nystat.github.io/yni/tags/dag/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/dag/</guid>
       <description></description>
     </item>
     
@@ -89,15 +134,6 @@
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graphical Model</title>
-      <link>https://nystat.github.io/yni/tags/graphical-model/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/graphical-model/</guid>
       <description></description>
     </item>
     
@@ -372,15 +408,6 @@
     </item>
     
     <item>
-      <title>Discrete Data</title>
-      <link>https://nystat.github.io/yni/tags/discrete-data/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/discrete-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zero-Inflated Data</title>
       <link>https://nystat.github.io/yni/tags/zero-inflated-data/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
@@ -449,15 +476,6 @@
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nystat.github.io/yni/tags/shrinkage-prior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categorical Data</title>
-      <link>https://nystat.github.io/yni/tags/categorical-data/</link>
-      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nystat.github.io/yni/tags/categorical-data/</guid>
       <description></description>
     </item>
     
